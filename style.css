@@ -325,7 +325,7 @@ footer h5{
 @media (max-width:700px)
 {
     main{
-        margin: 30px 0;
+        margin: 16px 0;
     }
     ul.nav-list-right{
         display: none;
